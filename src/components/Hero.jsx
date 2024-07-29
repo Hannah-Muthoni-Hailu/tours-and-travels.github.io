@@ -2,7 +2,7 @@
 const Hero = () => {
   return (
       <div className="w-full h-[90vh]">
-        <img src="https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&w=600" alt="safari" className="w-full h-full object-cover"/>
+        <img src="https://images.pexels.com/photos/1261728/pexels-photo-1261728.jpeg?auto=compress&cs=tinysrgb&w=600" alt="safari" className="w-full h-full object-cover"/>
         <div className="max-w-[1140px] mx-auto">
           <div className="absolute top-[-30%] w-full md:top-[40%] max-w-[600px] h-full flex flex-col text-black p-4 ">
             <h1 className="font-bold text-[40px] bg-clip-text text-transparent bg-gradient-to-r from-orange-800 via-orange-400 to-teal-300">Find Your Perfect Destination</h1>
